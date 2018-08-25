@@ -1,0 +1,7 @@
+baseURL = "https://qakink.github.io/"
+languageCode = "ja-jp"
+title = "Qakink blog"
+
+[params]
+  dateformat = "Jan 2, 2006" # Optional
+  latestSize = 7 # Optional"
