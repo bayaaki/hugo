@@ -1,10 +1,10 @@
 ---
-title: "「きょん、やっとむ、Ryuzeeらと語るアジャイル開発の本質」参加レポート #densohack"
-date: 2018-08-26T13:20:45+09:00
-draft: false
-categories: ["勉強会"]
-tags: ["アジャイル"]
-thumbnail = "images/first_content_thumbnail.png" 
+title : "「きょん、やっとむ、Ryuzeeらと語るアジャイル開発の本質」参加レポート #densohack"
+date : 2018-08-26T13:20:45+09:00
+draft : false
+categories : ["勉強会"]
+tags : ["アジャイル"]
+thumbnail : "hugo/public/images/first_content_thumbnail.jpg" 
 ---
 
 ## イベント概要
@@ -32,7 +32,7 @@ thumbnail = "images/first_content_thumbnail.png"
 * アジャイルとは何か：「しゃべって、リリースして、変更する」
 * なんのためにコード書いてるのか
 	* 欲しいもののためにかいている
-	* 欲しいもの＝**価値**
+	* **欲しいもの＝価値**
 
 ### 価値は時間累積
 * 欲しいものを「価値×コスト」軸で比較した時、価値が大きく早くできるものから着手する
@@ -48,16 +48,14 @@ thumbnail = "images/first_content_thumbnail.png"
 
 ### PBIは仮説でしかない
 * PBIは本当に価値があるものなのか
-	* PBLは**妄想**、PBIは**仮説**でしかない
+	* **PBLは妄想、PBIは仮説でしかない**
 	* 検証可能な価値の単位でリリースしないと有効なFB得られないよ　by nagaseさん
 * より正しいものがつくれるように学習していかないといけない
 * まとめると
-
-
-		- 早いほうがいい
-		- 細かいほうがいい
-		- 数手先まで考えたほうがいい
-		- 常に学ばないといけない
+	- 早いほうがいい
+	- 細かいほうがいい
+	- 数手先まで考えたほうがいい
+	- 常に学ばないといけない
 
 ### learnとunlearn
 * learnの定義
@@ -99,6 +97,7 @@ thumbnail = "images/first_content_thumbnail.png"
 * TOYOTAWAY
 * 赤福のビジョン
 	* 続けることが進化する業（なりわい）であり、進化することが続ける業である」
+
 ### 価値、コミュニケーション、技術、人
 * アジャイルな開発には、「価値、コミュニケーション、技術、人」が重要
 * その考えを持っていた人たちが、「アジャイルソフトウェア開発宣言」を出した
