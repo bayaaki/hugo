@@ -4,7 +4,7 @@ date : 2018-08-26T13:20:45+09:00
 draft : false
 categories : ["勉強会"]
 tags : ["アジャイル"]
-thumbnail : "images/first_content_thumbnail.jpg" 
+thumbnail : "images/hello-i-m-nik-281498-unsplash.jpg" 
 ---
 
 ## イベント概要
