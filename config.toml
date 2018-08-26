@@ -5,7 +5,6 @@ theme = "hugo_theme_robust"
 hasCJKLanguage = true
 
 [params]
-  description = "Agile、QAに関する雑記"
   dateformat = "Jan 2, 2006" # Optional
   # Fonts settings.
   googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
@@ -15,9 +14,8 @@ hasCJKLanguage = true
 [params.author]
   thumbnail = "images/author.jpg"
   name = "qakink"
-  description = "<p>toCプロダクトのQAをやっています。</p>"
+  description = "<p>アジャイル、QAに関する雑記を書いていきます。</p>"
   twitter = "https://twitter.com/qakink"
-  github = "https://github.com/bayaaki"
 
 [outputs]
 page = [ "HTML", "AMP" ] # if you want AMP enable.
